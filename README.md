@@ -1,7 +1,3 @@
-Ah, entendi! Você quer o código do `README.md` estruturado para ser usado diretamente no GitHub. Aqui está:
-
----
-
 ### ✅ **README.md**:
 
 ````markdown
@@ -60,16 +56,4 @@ Se você curtiu esse projeto ou quiser trocar ideias sobre programação e desen
 
 🔗 [linkedin.com/in/caio-mata-8bb741219](https://www.linkedin.com/in/caio-mata-8bb741219/)
 
-```
 
----
-
-### Como usar:
-1. Crie um repositório no GitHub e cole o código do `README.md` acima.
-2. Adicione todos os arquivos `.java` (como `App.java`, `Canvas.java`, etc.).
-3. Suba o projeto para o repositório e compartilhe!
-
-Essa estrutura vai deixar o seu repositório bem organizado e fácil de seguir para quem for explorar o código.
-
-Se quiser, posso gerar a imagem de preview para você também!
-```
